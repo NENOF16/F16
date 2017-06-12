@@ -71,8 +71,10 @@ function create_config( )
     "plugins",
 	"me",
     "tools"
- },
-    sudo_users = {226861861},
+ }, "replay",
+		
+	
+    sudo_users = {248132500},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
