@@ -1,8 +1,4 @@
-[TH3BOSS](https://telegram.me/TH3BOSS)
-  
-[V14 We Are Th3Best](https://telegram.me/llDEV1ll)
-  
-[كـيـفـيـه تـنـصـيـب سـورس الـزعـيـم](https://telegram.me/TH3BOSS) 
+ طريقه تنصيب سورس اف 16
  
 ```sh
 
@@ -24,23 +20,23 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/NENOF16/F16.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd BOSS
+cd F16
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
-chmod +x TH3BOSS.sh
+chmod +x F16.sh
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 
-./TH3BOSS.sh install
+./F16.sh install
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي  
 
-./TH3BOSS.sh 
+./F16.sh 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 *ملاحظه اذا يطلعلك حرف او  
 يوكف بالتنصيب تطي امر y وانتر 
@@ -49,11 +45,11 @@ chmod +x TH3BOSS.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
+@KNSLTHM
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@NAHAR2_BOT
 قـنـاة الـسـورس
-@llDEV1ll
+@NENO_CH
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -76,7 +72,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/NENOF16/F16.git && cd TH3BOSS && chmod +x F16.sh && ./F16.sh install && ./F16.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -101,10 +97,10 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
  مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
+Dev :   [@KNSLTHM]
+Dev_BOT :  [@NAHAR2_BOT]
+Dev_Channel : [@NENO_CH]
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
 You have an idea to develop Alsoors or bot prefer 🏿️
 
-📌 Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
+📌 Dev :   [@KNSLTHM]
